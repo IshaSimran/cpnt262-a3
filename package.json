@@ -1,0 +1,16 @@
+{
+  "name": "cpnt262-a3",
+  "version": "1.0.0",
+  "description": "cpnt262-a3 - deployed static express website",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Isha Simran",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
