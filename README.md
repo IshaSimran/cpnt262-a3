@@ -6,6 +6,8 @@ By Isha Simran
 
 - [Heroku App Link](https://cpnt262-a3-isha.herokuapp.com/)
 
+Just add a "/ and some random text" to the heroku app link to view the 404 error page.
+
 
 ## Attributions
 
@@ -36,6 +38,8 @@ By Isha Simran
 - [Sunflower Image](https://unsplash.com/photos/ZgM7nVYJ9GA) Image belongs to Rosie Kerr
 
 - [Tulip Image](https://unsplash.com/photos/4IfHWBdMJRc) Image belongs to Alana Harris
+
+- [Anime Error Image](https://www.animestarwall.com/1969/12/anime-error-404.html)
 
 ### Fonts
 
